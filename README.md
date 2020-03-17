@@ -23,4 +23,4 @@ Step 5:
 Open Terminal and run command
 sudo python3 test.py
 
-It will take all combinations that defined for hosts, delays, bandwidth and packetloss.
+It will take all combinations that defined for hosts, delays, bandwidth and packetloss. It create folder like structure for every single experiment from the combinations
